@@ -1,3 +1,3 @@
 # .github
 
-This the Dotfile for github repositories
+The dotfile for github repositories
